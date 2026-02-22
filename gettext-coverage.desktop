@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=gettext-coverage
+Comment=GTK4 app showing translation coverage per package in a distribution
+Exec=gettext-coverage
+Icon=applications-other-symbolic
+Terminal=false
+Categories=Development;
