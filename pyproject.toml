@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "gettext-coverage"
-version = "0.1.0"
+version = "0.1.1"
 description = "GTK4 app showing translation coverage per package in a distribution"
 requires-python = ">=3.10"
 license = "GPL-3.0-or-later"
