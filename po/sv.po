@@ -1,0 +1,148 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the gettext-coverage package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: gettext-coverage 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-22 07:09+0100\n"
+"PO-Revision-Date: 2026-02-22 07:13+0000\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305194/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/gettext_coverage/main.py:84 src/gettext_coverage/main.py:93
+#: src/gettext_coverage/main.py:329
+msgid "Gettext Coverage"
+msgstr "Gettext Coverage"
+
+#: src/gettext_coverage/main.py:98
+msgid "Scan packages"
+msgstr "Sök igenom paket"
+
+#: src/gettext_coverage/main.py:102
+msgid "Export CSV"
+msgstr "Exportera CSV"
+
+#: src/gettext_coverage/main.py:108 src/gettext_coverage/main.py:286
+msgid "Settings"
+msgstr "Inställningar"
+
+#: src/gettext_coverage/main.py:109
+msgid "Copy Debug Info"
+msgstr "Kopiera felsökningsinformation"
+
+#: src/gettext_coverage/main.py:110
+msgid "Keyboard Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/gettext_coverage/main.py:111
+msgid "About Gettext Coverage"
+msgstr "Om Gettext Coverage"
+
+#: src/gettext_coverage/main.py:136
+msgid "No data"
+msgstr "Inget data"
+
+#: src/gettext_coverage/main.py:137
+msgid "Click the search icon to scan installed packages."
+msgstr "Klicka på sökikonen för att söka igenom installerade paket."
+
+#: src/gettext_coverage/main.py:149
+msgid "Ready"
+msgstr "Redo"
+
+#: src/gettext_coverage/main.py:164
+msgid "Welcome"
+msgstr "Välkommen"
+
+#: src/gettext_coverage/main.py:170
+msgid "Welcome to Gettext Coverage"
+msgstr "Välkommen till Gettext Coverage"
+
+#: src/gettext_coverage/main.py:171
+msgid ""
+"View translation statistics for your distribution.\n"
+"\n"
+"✓ Scan installed packages for .po/.mo files\n"
+"✓ Show translation percentage per package\n"
+"✓ Sort by popularity and coverage\n"
+"✓ Identify untranslated high-priority packages\n"
+"✓ Export coverage report as CSV"
+msgstr ""
+"Visa översättningsstatistik för din distribution.\n"
+"\n"
+"✓ Sök igenom installerade paket efter .po/.mo-filer\n"
+"✓ Visa översättningsprocent per paket\n"
+"✓ Sortera efter popularitet och täckning\n"
+"✓ Identifiera oöversatta paket med hög prioritet\n"
+"✓ Exportera täckningsrapport som CSV"
+
+#: src/gettext_coverage/main.py:178
+msgid "Get Started"
+msgstr "Kom igång"
+
+#: src/gettext_coverage/main.py:201
+msgid "Scanning packages..."
+msgstr "Sök igenom paket..."
+
+#: src/gettext_coverage/main.py:220
+#, python-format
+msgid "%(langs)d / %(total)d languages (%(pct).1f%%)"
+msgstr "%(langs)d / %(total)d språk (%(pct).1f%%)"
+
+#: src/gettext_coverage/main.py:233
+#, python-format
+msgid "Found %(count)d packages"
+msgstr "Hittade %(count)d paket"
+
+#: src/gettext_coverage/main.py:239
+msgid "Export Coverage Report"
+msgstr "Exportera täckningsrapport"
+
+#: src/gettext_coverage/main.py:253
+#, python-format
+msgid "Exported to %s"
+msgstr "Exporterade till %s"
+
+#: src/gettext_coverage/main.py:289
+msgid "Scanning"
+msgstr "Söker igenom"
+
+#: src/gettext_coverage/main.py:290
+msgid "Include system packages"
+msgstr "Inkludera systempaket"
+
+#: src/gettext_coverage/main.py:310
+msgid "Debug info copied"
+msgstr "Felsökningsinformation kopierades"
+
+#: src/gettext_coverage/main.py:316
+msgid "General"
+msgstr "Allmänt"
+
+#: src/gettext_coverage/main.py:318
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/gettext_coverage/main.py:319
+msgid "Keyboard shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: src/gettext_coverage/main.py:336
+msgid ""
+"Shows translation coverage per package, identifies most-used untranslated "
+"packages."
+msgstr ""
+"Visar översättningsomfattning per paket, identifierar de mest använda "
+"oöversatta paketen."
